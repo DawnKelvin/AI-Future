@@ -1,5 +1,12 @@
 # Ethics in Personalized Medicine: Bias and Fairness in AI Recommendations
 
+**Dataset**: Cancer Genomic Atlas https://www.cancer.gov/ccg/
+
+**Task**:
+1. Identify potential biases in using AI to recommend treatments (e.g., underrepresentation of ethnic groups).
+2. Suggest fairness strategies (e.g., diverse training data).
+
+
 ## Overview
 
 Personalized medicine uses genetic, environmental, and lifestyle data to tailor cancer treatment to individual patients. The Cancer Genomic Atlas (TCGA) offers a robust dataset enabling AI-driven insights. However, ethical concerns emerge when these AI models recommend treatments, especially due to bias and underrepresentation in the data.

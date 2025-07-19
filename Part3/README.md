@@ -2,6 +2,15 @@
 # 🌍 AI-Powered Climate Engineering: Stratospheric Aerosol Optimization System (SAOS)
 
 **Concept Paper – 2030**
+---
+**Task**:Propose an AI application for 2030 AI-powered climate engineering. 
+**Requirements**:
+1. Explain the problem it solves.
+2. Outline the AI workflow (data inputs, model type).
+3. Discuss societal risks and benefits.
+
+**Deliverable**: 1-page concept paper.
+---
 
 ## 📌 Problem Statement
 
